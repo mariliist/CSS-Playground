@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans:wght@700&display=swap');
+
+body {
+    background-color: rgb(241, 237, 233);
+}
+
+.heading {
+    text-align: center;
+}
+
+h3 {
+    color: rgb(23, 23, 23);
+    font-family: 'AR One Sans', sans-serif;
+}
+
+
+p{
+    font-family: 'AR One Sans', sans-serif;
+}
+
+.main{
+    border: 2px solid rgb(177, 0, 0);
+    width: 75%;
+    height: 75%;
+    margin: 0 auto;
+}
+
+.main div{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border:1px solid black;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#red{
+    border-color: crimson;
+}
+
+#blue{
+    border-color: dodgerblue;
+}
+
+#green{
+    border-color: forestgreen;
+}
+
+.footer {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding: 5px;
+}
+
